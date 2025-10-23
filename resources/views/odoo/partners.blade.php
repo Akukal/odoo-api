@@ -13,7 +13,7 @@
   </style>
 </head>
 <body class="min-h-screen bg-slate-100">
-  <div class="relative bg-gradient-to-br from-indigo-500 via-purple-500 to-sky-500">
+  <div class="relative bg-gradient-to-br from-indigo-500 via-purple-500 to-sky-500 mb-8">
     <div class="mx-auto max-w-6xl px-6 py-14 text-white">
       <div class="flex flex-wrap items-center justify-between gap-6">
         <div>
@@ -34,7 +34,7 @@
     </div>
   </div>
 
-  <div class="mx-auto max-w-6xl -mt-16 px-6 pb-16">
+  <div class="mx-auto max-w-6xl -mt-34 px-6 pb-16">
     <div class="overflow-hidden rounded-3xl bg-white shadow-xl shadow-indigo-100/40">
       <div class="border-b border-slate-100 px-6 py-6">
         <div class="flex flex-wrap items-center justify-between gap-4">
